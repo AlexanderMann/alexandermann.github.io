@@ -1,0 +1,15 @@
+.f-flex {
+    display: flex;
+    gap: 1em;
+}
+
+.f-row {
+    flex-flow: row;
+}
+
+.f-img-cell {
+    flex: 1;
+    min-height: 0;
+    min-width: 0;
+    object-fit: cover;
+}
