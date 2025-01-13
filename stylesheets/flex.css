@@ -13,3 +13,7 @@
     min-width: 0;
     object-fit: cover;
 }
+
+.pb-1 {
+    padding-bottom: 1em;
+}
