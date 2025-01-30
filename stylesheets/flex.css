@@ -7,6 +7,10 @@
     flex-flow: row;
 }
 
+.f-col {
+    flex-flow: column;
+}
+
 .f-img-cell {
     flex: 1;
     min-height: 0;
