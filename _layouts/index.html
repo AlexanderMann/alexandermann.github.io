@@ -2,7 +2,11 @@
 layout: default
 ---
 
+{{ target_tag }}
+
 {% capture target_tag %}{{ target_tag }}{% endcapture %}
+
+{{ target_tag }}
 
 {% for page in site.pages %}
     {% if page.tags contains target_tag %}
@@ -11,6 +15,7 @@ layout: default
             <a href="{{ page.url }}">
                 {{ page.title }}
                 <i>{{ page.tagline }}</i>
+                {{ page.tags }}
             </a>
         </p>
     {% endif %} <!-- contains -->
