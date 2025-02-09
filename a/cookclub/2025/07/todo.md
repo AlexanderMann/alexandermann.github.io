@@ -1,5 +1,6 @@
 ---
 layout: default
+tags: cookclub_2025
 title: TBD
 tagline: July TODO, 2025
 ---
