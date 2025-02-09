@@ -4,8 +4,12 @@ layout: default
 
 {{ page.target_tag }}
 
+{% capture target_tag %}{{ page.target_tag }}{% endcapture %}
+
+{{ target_tag }}
+
 {% for page in site.pages %}
-    {% if page.tags contains page.target_tag %}
+    {% if page.tags contains target_tag %}
         <p>
             🔗&nbsp;
             <a href="{{ page.url }}">
