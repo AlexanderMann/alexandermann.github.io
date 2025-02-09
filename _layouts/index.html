@@ -2,14 +2,10 @@
 layout: default
 ---
 
-{{ target_tag }}
-
-{% capture target_tag %}{{ target_tag }}{% endcapture %}
-
-{{ target_tag }}
+{{ page.target_tag }}
 
 {% for page in site.pages %}
-    {% if page.tags contains target_tag %}
+    {% if page.tags contains page.target_tag %}
         <p>
             🔗&nbsp;
             <a href="{{ page.url }}">
