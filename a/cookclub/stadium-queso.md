@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: cookclub
+tags: [cookclub]
 title: 🏒🥅🌮🧀 Stadium Queso 🧀🌮🥅🏒
 tagline: September 21st, 2022
 ---
@@ -39,7 +39,7 @@ There are only really 3 or 4 "special" ingredients to make this:
 2. Drain the cashews.
 3. Add the drained cashews to a blender/food processor. Add the yogurt, salsa, water, cumin, chili powder, paprika, black pepper, nutritional yeast, pickled jalapeños, and pickled jalapeño brine.
 4. Blend until thick, creamy, and smooth. Taste for seasonings, adding salt as needed.
-    - This may take as much as 5-10 minutes depending on what kind of blender/food processor you have
+   - This may take as much as 5-10 minutes depending on what kind of blender/food processor you have
 
 📓 **Note:** the pickled jalapeños are decently salty, so I don't add much salt, but if you skip them, be sure to add salt (1/2 to 1 teaspoon kosher salt).
 

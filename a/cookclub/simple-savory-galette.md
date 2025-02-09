@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: cookclub
+tags: [cookclub]
 title: 💀🧅🧄🍅 Donna's Dead Simple Savory "Galette" 🍅🧄🧅💀
 tagline: April 7th, 2024
 ---

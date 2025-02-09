@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: cookclub_2025
+tags: [cookclub_2025]
 title: 🥛🐄🇮🇳🧀 Paneer 🧀🇮🇳🐄🥛
 tagline: February 21, 2025
 redirect_from:

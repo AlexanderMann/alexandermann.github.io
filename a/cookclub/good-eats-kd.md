@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: cookclub
+tags: [cookclub]
 title: 🧀🟦 Alton Brown's Good Eats KD 🟦🧀
 tagline: January 22nd, 2023
 ---
@@ -26,4 +26,4 @@ This recipe is almost entirely cribbed from [here](https://www.foodnetwork.com/v
 ## Directions
 
 1. In a large pot of boiling, salted water cook the pasta to al dente and drain. Return to the pot and melt in the butter. Toss to coat.
-2. Whisk together the eggs, milk, hot sauce, salt, pepper, and mustard. Stir into the pasta and add the cheese. Over low heat continue to stir for 3 minutes or until creamy.  
+2. Whisk together the eggs, milk, hot sauce, salt, pepper, and mustard. Stir into the pasta and add the cheese. Over low heat continue to stir for 3 minutes or until creamy.

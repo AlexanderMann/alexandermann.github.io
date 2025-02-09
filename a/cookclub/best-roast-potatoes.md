@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: cookclub
+tags: [cookclub]
 title: ♨️🥔 (Simplest) Best Roast Potatoes 🥔♨️
 tagline: January 8th, 2023
 ---

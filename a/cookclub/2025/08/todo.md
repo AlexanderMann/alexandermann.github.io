@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: cookclub_2025
+tags: [cookclub_2025]
 title: TBD
 tagline: August TODO, 2025
 ---
