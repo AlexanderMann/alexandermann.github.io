@@ -6,6 +6,12 @@ layout: default
 
 {% for page in site.pages %}
     {% if page.tags contains target_tag %}
-        <p>🔗 <a href="{{ page.url }}">{{ page.title }}</a></p>
+        <p>
+            🔗&nbsp;
+            <a href="{{ page.url }}">
+                {{ page.title }}
+                <i>{{ page.tagline }}</i>
+            </a>
+        </p>
     {% endif %} <!-- contains -->
 {% endfor %} <!-- page -->
