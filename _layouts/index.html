@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<ul>
-    {% for page in site.pages %}
-        {% if page.tags contains target_tag %}
-            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-        {% endif %} <!-- contains -->
-    {% endfor %} <!-- page -->
-</ul>
+{% capture target_tag %}{{ target_tag }}{% endcapture %}
+
+{% for page in site.pages %}
+    {% if page.tags contains target_tag %}
+        <p>🔗 <a href="{{ page.url }}">{{ page.title }}</a></p>
+    {% endif %} <!-- contains -->
+{% endfor %} <!-- page -->
