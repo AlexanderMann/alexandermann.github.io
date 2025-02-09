@@ -1,4 +1,6 @@
 ---
+layout: default
+tags: cookclub
 title: 🍋 Lemon Amaretti Cookies 🍪
 ---
 
