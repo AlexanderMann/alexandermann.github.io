@@ -54,7 +54,7 @@ In short, thank you for challenging me, even if it does mean I have less relish 
 
 ## Ingredients
 
-> Ratios that follow are really rough, this is honestly just guess/check and to taste. Mayve I'll update this again someday 🤷‍♂️
+> Ratios that follow are really rough, this is honestly just guess/check and to taste. Maybe I'll update this again someday 🤷‍♂️
 
 - 1/2 part: Mustard (Stadium Yellow mustard works great)
 - 1/2 part: Agave syrup/honey
