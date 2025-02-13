@@ -14,6 +14,8 @@ This recipe has been adapted from chef Devan Rajkumar's hit cookbook: ["Mad Love
 - Total time: ~24 hours
 - 📓 **NOTE:** The paneer will only keep ~3 days, so be ready to eat/serve after the overnight set time
 
+[🎥 For a video of what to do, check out this Youtube](https://www.youtube.com/watch?v=A9bwHBikW8o)
+
 ## Ingredients
 
 - [Cheesecloth](https://www.metro.ca/en/online-grocery/aisles/household-cleaning/cooking-kitchen-supplies/kitchen-tools-utensils/natural-cotton-cheesecloth/p/733046058215)
