@@ -28,7 +28,7 @@ permalink: /404.html
         location.replace(lowerCaseURL);
     } else if (!currentURL.match(/.*\.html$/)) {
         // Try redirecting to the same page, but with .html at the end
-        location.replace(currentURL + '.html');
+        location.replace(currentURL.replace(/\.\w+$/, '') + '.html');
     } else {
         // Try redirecting to the same page, but with nothing at the end
         location.replace(currentURL.replace(/\.\w+$/, '') + '?=redirected');
