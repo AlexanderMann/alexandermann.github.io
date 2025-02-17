@@ -16,15 +16,33 @@ permalink: /404.html
 
 <script>
   window.onload = () => {
+    if (!Object.values(window).includes('ALXMNN')) {
+        window.ALXMNN = {
+            originalURL: window.location.href,
+            lowerCaseURL: false,
+            htmlURL: false,
+            strippedURL: false
+        }
+    }
+
+    console.log("So far, I've tried the following URLS:", window.ALXMNN);
+
     currentURL = window.location.href;
     lowerCaseURL = currentURL.toLowerCase();
-    
-    if (currentURL != lowerCaseURL) {
+
+    if (!window.ALXMNN.lowerCaseURL && currentURL != lowerCaseURL) {
         // Try redirecting to a lowercase version of the page
+        window.ALXMNN.lowerCaseURL = lowerCaseURL
         location.replace(lowerCaseURL);
-    } else if (!currentURL.match('.*\.html$')) {
+    } else if (!window.ALXMNN.htmlURL && !currentURL.match('.*\.html$')) {
         // Try redirecting to the same page, but with .html at the end
+        window.ALXMNN.htmlURL = currentURL + '.html'
         location.replace(currentURL + '.html');
+    } else if (!window.ALXMNN.strippedURL) {
+        // Try redirecting to the same page, but with .html at the end
+        strippedURL = currentURL.replace('\.\w+$', '')
+        window.ALXMNN.strippedURL = strippedURL
+        location.replace(strippedURL);
     }
   };
 </script>
