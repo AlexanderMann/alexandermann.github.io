@@ -1,0 +1,25 @@
+---
+layout: default
+title: Not all who wander are lost...but you are
+tagline: Looks like you're not where you want to be...
+permalink: /404.html
+---
+
+<h3>Hello!</h3>
+
+<p>Looks like you might not be where you were intending to be.</p>
+
+<a href="/">
+  Head on over you the main homepage to see if a link to what you're after is
+  there!
+</a>
+
+<script>
+  window.onload = () => {
+    currentURL = window.location.href;
+    lowerCaseURL = currentURL.toLowerCase();
+    if (currentURL != lowerCaseURL) {
+      location.replace(lowerCaseURL);
+    }
+  };
+</script>
