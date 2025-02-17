@@ -18,8 +18,13 @@ permalink: /404.html
   window.onload = () => {
     currentURL = window.location.href;
     lowerCaseURL = currentURL.toLowerCase();
+    
     if (currentURL != lowerCaseURL) {
-      location.replace(lowerCaseURL);
+        // Try redirecting to a lowercase version of the page
+        location.replace(lowerCaseURL);
+    } else if (!currentURL.match('.*\.html$')) {
+        // Try redirecting to the same page, but with .html at the end
+        location.replace(currentURL + '.html');
     }
   };
 </script>
