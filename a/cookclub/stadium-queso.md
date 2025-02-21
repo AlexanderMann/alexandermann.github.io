@@ -7,7 +7,7 @@ tagline: September 21st, 2022
 
 This recipe was largely cribbed from [Rainbow Plant Life](https://rainbowplantlife.com/the-best-vegan-queso-ever/)
 
-An addictively good yet extremely easy cheese sauce that tastes just like queso. Less than 10 ingredients and everything happens in a blender. Use it in burritos, quesadillas, tacos, or nachos, or warm it up and serve as a hot queso dip with tortilla chips!</p>
+An addictively good yet extremely easy cheese sauce that tastes just like queso. Less than 10 ingredients and everything happens in a blender. Use it in burritos, quesadillas, tacos, or nachos, or warm it up and serve as a hot queso dip with tortilla chips!
 
 ## Notes
 
@@ -20,7 +20,6 @@ There are only really 3 or 4 "special" ingredients to make this:
 
 ## Ingredient
 
-<ul>
 - 1 cup raw cashews
 - 1/2 cup plain greek yogurt
 - 1/2 cup of your favorite salsa
