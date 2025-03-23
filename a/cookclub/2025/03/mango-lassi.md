@@ -11,8 +11,8 @@ This recipe has been adapted from chef Devan Rajkumar's hit cookbook: ["Mad Love
 
 ## Ingredients
 
-- 1 1/2 cups frozen mango
-- 1 cup plain yogurt
+- 1 1/2 [cups frozen mango chunks](https://www.metro.ca/en/online-grocery/aisles/frozen/fruit-vegetables/fruit/frozen-mango-chunks/p/059749876001)
+- 1 cup [plain, full fat, yogurt](https://www.metro.ca/en/online-grocery/aisles/dairy-eggs/yogurt/greek-yogurts/11-plain-yogurt/p/056800521085)
 - 1 1/2 tbsp honey
 - 1/4 tsp ground cardamom
 - 1/4 tsp ground cinnamon
