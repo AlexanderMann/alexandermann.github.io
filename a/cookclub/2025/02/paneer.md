@@ -3,8 +3,6 @@ layout: default
 tags: [cookclub_2025]
 title: 🥛🐄🇮🇳🧀 Paneer 🧀🇮🇳🐄🥛
 tagline: February 21, 2025
-redirect_from:
-  - /cookclub
 ---
 
 This recipe has been adapted from chef Devan Rajkumar's hit cookbook: ["Mad Love"](https://www.chefdev.ca/cookbook/p/madlove)
