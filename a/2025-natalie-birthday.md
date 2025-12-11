@@ -46,7 +46,7 @@ Below are some food choices.
 | Anytime     | Hong Kong         | [Tigerfork](http://www.tigerforkdc.com/)          | ≤ $200    | Reserve soon. Near [Calico](http://www.calicodc.com/). Can invite others.    |
 | Anytime     | Asian             | [Pow Pow](https://www.eatpowpow.com/)             | ≤ $80     | Walk in. SUPER casual.                                                       |
 
-## 🏛️🍸 State(s) of the Union 🍹🇺🇸</h2>
+## 🏛️🍸 State(s) of the Union 🍹🇺🇸
 
 We could possibly punt on our States of the Union, and go "elsewhere" from our above plethora of restaurants/options. Entirely optional!
 
